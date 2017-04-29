@@ -1,0 +1,27 @@
+*{
+    color: darkolivegreen;
+    
+}
+.main{
+    background-color: aquamarine ;
+    border: 2px solid slategrey;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+div.header,.heading{
+    text-align: center;
+    margin: 0 auto; 
+}
+table{
+    width: 80%;
+    margin: 0 auto ; 
+}
+th,td{
+    padding: 20px;
+}
+
+p.ins{
+    text-align: right;
+}
